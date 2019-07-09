@@ -14,7 +14,7 @@ const appConfig = {
   },
   output: {
     path: path.join(config.root, config.paths.dist),
-    publicPath: 'https://5x.github.io/easy-steam-free-packages/',
+    publicPath: config.site_url,
     filename: '[name].[hash].js',
   },
   mode: ['production', 'development'].includes(config.env)

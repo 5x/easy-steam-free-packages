@@ -15,7 +15,7 @@ const config = {
   site_description: 'Script for automation activation free packages(games, movies, DLC, etc.) on Steam platform.',
 
   // Your website's URL, used for sitemap
-  site_url: 'https://github.com/5x/easy-steam-free-packages',
+  site_url: 'https://github.com/5x/easy-steam-free-packages/',
 
   // Google Analytics tracking ID (leave blank to disable)
   googleAnalyticsUA: '',
