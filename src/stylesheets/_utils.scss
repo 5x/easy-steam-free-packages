@@ -1,0 +1,10 @@
+.hidden {
+  box-sizing: border-box;
+  position: absolute;
+  overflow: hidden;
+  width: 1px;
+  height: 1px;
+  margin-top: -1px;
+  left: -9999999999px;
+  top: -9999999999px;
+}
