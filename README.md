@@ -2,16 +2,16 @@
 
 Script for automation activation free packages(games, movies, DLC, etc.) on Steam platform. It register as more as possible free packages to you Steam account.
 
-Based on SteamDB script and package list. Provide more futures, like visualization of progress, possibility of continuous activation, passed already registered products, etc.
+Based on [SteamDB](https://steamdb.info/freepackages/) script and package list. Provide more futures, like visualization of progress, possibility of continuous activation, passed already registered products, etc.
 
 * Homepage: [https://5x.github.io/easy-steam-free-packages](https://5x.github.io/easy-steam-free-packages)
 
 ## Instruction of usage
 
-1. Copy script to Clipboard
-1. Open your licenses and product key activations page
-1. Open developer tools in your browser, read more here
-1. Paste script (already on you clipboard) to console
+1. Copy [script](https://github.com/5x/easy-steam-free-packages/blob/master/dist/easysfp.js) to Clipboard
+1. Open your [licenses and product key activations](https://store.steampowered.com/account/licenses/) page
+1. Open developer tools in your browser, [read more here](https://webmasters.stackexchange.com/a/77337)
+1. Paste script to console
 1. Wait for it to finish, it may take a while
 1. Enjoy
 
