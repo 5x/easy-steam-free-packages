@@ -1,6 +1,7 @@
 # Easy Steam free packages script
 
-Script for automation activation free packages(games, movies, DLC, etc.) on Steam platform. It register as more as possible free packages to you Steam account.
+Script for automation activation free packages (games, movies, DLC, etc.) on Steam platform. It register as more as possible free packages to you Steam account.
+The database contains more than 10,000 (check faq section for details) packages that will be added and available in the library forever after activation.
 
 Based on [SteamDB](https://steamdb.info/freepackages/) script and package list. Provide more futures, like visualization of progress, possibility of continuous activation, passed already registered products, etc.
 
@@ -30,7 +31,7 @@ No, this is Steam built-in feature. This script does not violate service terms o
 
 **What's the point of this?**
 
-If some of this free packages will be removed or or will be paid at future, you still be able to play them for free. A few games when installed give you +1 Games on your profile.
+If some of this free packages will be removed or will be paid at future, you still be able to play them for free. A few games when installed give you +1 Games on your profile.
 
 
 ## Support & Contributing
