@@ -1,6 +1,6 @@
 /* global jQuery */
 /* global g_sessionID */
-import freePackages from './default_packages_db.json';
+import freePackages from './packages_db.json';
 import { escapeStringRegExp } from './utils';
 import state, { definePackagesFromArray, registerPackage, isRegistered } from './store';
 import { renderCurrentStateInformation, renderProcessingDialog, renderCompletedDialog } from './ui-handlers';
