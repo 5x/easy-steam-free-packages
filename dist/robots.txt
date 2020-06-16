@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://github.com/5x/easy-steam-free-packages/sitemap.xml
-Host: https://github.com
