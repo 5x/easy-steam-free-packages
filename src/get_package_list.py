@@ -77,6 +77,10 @@ def checkGame(game):
 	if res[str(game)]['success'] is False:
 		# print('\nGot invalid app %d' % game)
 		return None
+  
+  if res[str(game)]['data']['release_date']['coming_soon'] is True:
+    # print('\nGot not yet released app %d' % game)
+    return None
 
 	if res[str(game)]['data']['is_free'] is True:
 		# print('\nGot free app %d' % game)
